@@ -5,7 +5,9 @@ My audits on Sherlock are mostly performed under my second alias "roguereddwarf"
 
 I'm also available for conducting private audits.  
 
-If you're interested please reach out to me via **Twitter** ([@HollaWaldfee100](https://twitter.com/HollaWaldfee100)) or **Discord** (HollaDieWaldfee#0706).  
+# Contact
+
+If you're interested in a private audit or consulting please reach out to me via **Twitter** ([@HollaWaldfee100](https://twitter.com/HollaWaldfee100)) or **Discord** (HollaDieWaldfee#0706).  
 
 # Competitive Audits
 | Contest                   | Description                                                                                                                                                                                          | Platform  | Alias           | Ranking | Report                                                                    |
