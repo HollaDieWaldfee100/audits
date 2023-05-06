@@ -33,4 +33,4 @@ If you're interested please reach out to me via **Twitter** ([@HollaWaldfee100](
 # Private Audits
 | Client                                        | Description            | Report                                                                                                             |
 | --------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [Key Finance](https://twitter.com/gmxkey_com) | GMX liquidity solution | [Link](https://github.com/KeyFinanceTeam/key-finance-contracts/blob/main/audit/Key%20Finance%20Audit%20Report.pdf) |
+| [Key Finance](https://twitter.com/gmxkey_com) | Key Finance is a liquidity solution for GMX stakers. GMX stakers can unlock the potential value of illiquid assets with Key Finance. | [Link](https://github.com/KeyFinanceTeam/key-finance-contracts/blob/main/audit/Key%20Finance%20Audit%20Report.pdf) |
