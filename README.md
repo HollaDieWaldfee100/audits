@@ -35,4 +35,5 @@ If you're interested in a private audit or consulting please reach out to me via
 # Private Audits
 | Client                                        | Description            | Report                                                                                                             |
 | --------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [Key Finance (Unwrap functionality)](https://twitter.com/gmxkey_com) | Audit of the new Unwrap functionality for the Key Finance protocol | [Link](https://github.com/KeyFinanceTeam/key-finance-contracts/blob/main/audit/Key%20Finance%20Audit%20Report%20-%20Unwrap.pdf) |
 | [Key Finance](https://twitter.com/gmxkey_com) | Key Finance is a liquidity solution for GMX stakers. GMX stakers can unlock the potential value of illiquid assets with Key Finance. | [Link](https://github.com/KeyFinanceTeam/key-finance-contracts/blob/main/audit/Key%20Finance%20Audit%20Report.pdf) |
