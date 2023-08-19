@@ -1,13 +1,16 @@
+# Audit Portfolio - HollaDieWaldfee
+- [About HollaDieWaldfee](#about-holladiewaldfee)
+- [Competitive Audits](#competitive-audits)
+- [Private Audits](#private-audits)
+
 # About HollaDieWaldfee
 I'm a top ranked Auditor at [Code4rena](https://code4rena.com/), Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/) and Senior Auditor at [Trust Security](https://www.trust-security.xyz/).  
 
 My audits on Sherlock are mostly performed under my second alias "roguereddwarf".  
 
-I'm also available for conducting private audits.  
+For private audit or consulting requests please reach out to me via **Twitter** ([@HollaWaldfee100](https://twitter.com/HollaWaldfee100)) or **Discord** (HollaDieWaldfee#0706).  
 
-# Contact
-
-If you're interested in a private audit or consulting please reach out to me via **Twitter** ([@HollaWaldfee100](https://twitter.com/HollaWaldfee100)) or **Discord** (HollaDieWaldfee#0706).  
+You can also request a quote via my [Code4rena profile](https://code4rena.com/@HollaDieWaldfee) to engage Code4rena as an intermediary.  
 
 # Competitive Audits
 | Contest                   | Description                                                                                                                                                                          | Platform  | Alias           | Ranking | Report                                                                                                                                                   |
