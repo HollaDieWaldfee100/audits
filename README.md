@@ -49,8 +49,8 @@ You can also request a quote via my [Code4rena profile](https://code4rena.com/@H
 
 
 # Immunefi
-| Program                             | Description                                  | Writeup                                                                |
-| ----------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------- |
-| [IPOR](https://twitter.com/ipor_io) | DeFi primitive for interest rate derivatives | [Link](https://twitter.com/HollaWaldfee100/status/1656992468867465222) |
+| Program                             | Description                                                   | Severity | Writeup                                                                |
+| ----------------------------------- | ------------------------------------------------------------- | -------- | ---------------------------------------------------------------------- |
+| [IPOR](https://twitter.com/ipor_io) | Loss of revenue for liquidity providers due to wrong decimals | Low      | [Link](https://twitter.com/HollaWaldfee100/status/1656992468867465222) |
 
 
