@@ -49,8 +49,9 @@ You can also request a quote via my [Code4rena profile](https://code4rena.com/@H
 
 
 # Immunefi
-| Program                             | Description                                                   | Severity | Writeup                                                                |
-| ----------------------------------- | ------------------------------------------------------------- | -------- | ---------------------------------------------------------------------- |
-| [IPOR](https://twitter.com/ipor_io) | Loss of revenue for liquidity providers due to wrong decimals | Low      | [Link](https://twitter.com/HollaWaldfee100/status/1656992468867465222) |
+| Program                                        | Description                                                   | Severity | Writeup                                                                |
+| ---------------------------------------------- | ------------------------------------------------------------- | -------- | ---------------------------------------------------------------------- |
+| [Perennial](https://twitter.com/perenniallabs) | Claiming funds not possible due to underflow                  | Medium   | [Link](https://twitter.com/HollaWaldfee100/status/1696135876403732555) |
+| [IPOR](https://twitter.com/ipor_io)            | Loss of revenue for liquidity providers due to wrong decimals | Low      | [Link](https://twitter.com/HollaWaldfee100/status/1656992468867465222) |
 
 
