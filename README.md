@@ -9,9 +9,7 @@ I'm a top ranked Auditor at [Code4rena](https://code4rena.com/), Lead Senior Wat
 
 My audits on Sherlock are mostly performed under my second alias "roguereddwarf".  
 
-For private audit or consulting requests please reach out to me via **Twitter** ([@HollaWaldfee100](https://twitter.com/HollaWaldfee100)) or **Discord** (HollaDieWaldfee#0706).  
-
-You can also request a quote via my [Code4rena profile](https://code4rena.com/@HollaDieWaldfee) to engage Code4rena as an intermediary.  
+For private audit or consulting requests please reach out to me via **Twitter** ([@HollaWaldfee100](https://twitter.com/HollaWaldfee100)), **Telegram** (@HollaDieWaldfee100) or **Discord** (HollaDieWaldfee#0706).  
 
 # Competitive Audits
 | Contest                   | Description                                                                                                                                                                          | Platform  | Alias           | Ranking | Report                                                                                                                                                   |
